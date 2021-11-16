@@ -8,7 +8,7 @@ I made a table with the tags and their description as part of CodeCademy's Proje
 
 <div align="center">
   <kbd>
-    <img src="images/Cheat Sheet.jpg" width="500"/>
+    <img src="images/Cheat Sheet.png" width="500"/>
   </kbd>
 </div>
 
