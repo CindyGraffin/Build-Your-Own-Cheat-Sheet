@@ -1,0 +1,49 @@
+body {
+    background-image: url("images/wood.jpg");
+    font-family: Tahoma;
+    text-align: center;
+    color:rgba(26, 24, 24, 0.911)
+}
+
+h1 {
+    background-color: rgba(26, 24, 24, 0.911);
+    color: rgba(245, 241, 224, 0.979);
+    font-size: 53px;
+}
+
+#intro-sentence, #help-message {
+    font-size: 21px;
+    font-weight: bolder;  
+}
+
+table,td, th {
+    border: 2px solid black;
+    margin:auto; 
+    border-collapse: collapse;
+}
+
+
+thead {
+    font-size: 25px;
+    background-color: rgba(26, 24, 24, 0.911);
+    color: rgba(245, 241, 224, 0.979);
+}
+
+.description {
+    text-align: left;
+    font-size:17px;
+    font-weight: 500;
+    background-color: rgba(245, 245, 220, 0.925);
+}
+
+.code {
+    font-family: monospace;
+    font-size: 20px;
+    background-color: rgba(245, 241, 224, 0.959);
+}
+
+.description #figure-tag {
+    font-size: 17px;
+    font-family: monospace;
+    background-color: rgba(245, 241, 224, 0.959);
+}
